@@ -33,5 +33,5 @@ async def on_message(message):
         await message.add_reaction(i)
     
 
-bot.run("MTAwMzc4OTIwNTE3ODE2NzMxNw.GBE-0z.d0rCl1gsIYsKfvY84M3zfZ-k5SEJPxXmU3zyQ4")
+bot.run()
 
